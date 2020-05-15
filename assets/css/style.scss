@@ -3,6 +3,9 @@
 
 @import 'jekyll-theme-merlot';
 
-.header-level-1 {
-  border-bottom: none !important;
+h4.header-level-1 {
+  font-size: 1.3rem;
+  font-style: normal;
+  border-bottom: none;
+  margin: 1em 0 .38em;
 }
