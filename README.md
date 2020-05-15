@@ -35,4 +35,10 @@ In a year, when it rains,
 Pond's water, is overflowing its shores.
 ```
 
+> Styles: [English], [Odia], [Translated].
+
 - Snigdharani Sahu
+
+[English]: README.md
+[Odia]: odia.md
+[Translated]: translated.md
