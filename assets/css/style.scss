@@ -3,6 +3,10 @@
 
 @import 'jekyll-theme-merlot';
 
+h4::first-of-type {
+  margin-top: 2rem;
+}
+
 h4.header-level-1 {
   font-size: 1.3rem;
   font-style: normal;
