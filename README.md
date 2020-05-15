@@ -1,5 +1,3 @@
-### In a year, when itrains
-
 ```
 In a year, when it rains,
 Pond's water, is overflowing its shores,
