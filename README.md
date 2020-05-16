@@ -2,34 +2,34 @@
 In a year, when it rains,
 Pond's water, is overflowing its shores,
 King of the frogs, on the banks of the Mandvi,
-Singing, ringing, and dancing slowly.
+Croaking, singing, and dancing slowly.
 
-Queen Lotus, shaking her head,
-Honeybees call, with swollen pride,
+Queen Lotus, shakes her head,
+Honeybees calling, with swollen pride,
 In a year, when it rains,
 Pond's water, is overflowing its shores.
 
 Small fish, whisper in ears,
-Come on, let's jump together,
+Come on, let's go jumping,
 The fisherman brother, rejoices,
 Taking his net, across the water.
 
 In a year, when it rains,
-Pond's water, is overflowing its shores,
+Pond's water, overflowing its shores,
 Hen on a branch, sits anxiously,
 Beside the dove, watching the clouds.
 
 Dances a peacock, on a rock,
 Spreading its tail, looks at the sky,
-Grasshopper brother, shaking his moustache,
+Grasshopper brother, shakes his moustache,
 With doob grass, around his arms.
 
 A shephard's, musical voice,
 Comes floating, making me mad,
 Male and female cranes', bamboo dance,
-Crab watches, it in surprise.
+Crab watching, it in surprise.
 
-Weaver bird hanging, in the lap of nest,
+Weaver bird hangs, in the lap of nest,
 In a windy storm, on a pine tree's branch,
 In a year, when it rains,
 Pond's water, is overflowing its shores.
