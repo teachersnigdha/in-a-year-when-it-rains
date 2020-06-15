@@ -1,3 +1,5 @@
+![](https://i.ytimg.com/vi/RW3GG0dKmoI/maxresdefault.jpg)
+
 ```
 In a year, when it rains,
 Pond's water, is overflowing its shores,
