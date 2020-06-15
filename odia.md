@@ -1,6 +1,4 @@
-![](https://i.ytimg.com/vi/RW3GG0dKmoI/maxresdefault.jpg)
-
-[Odia song](odia.aac)
+[![](https://i.ytimg.com/vi/RW3GG0dKmoI/maxresdefault.jpg)](https://soundcloud.com/user-963789405/in-a-year-when-it-rains-odia)
 
 #### ବରଷେ ଯେବେ, ବରଷା ହୁଏ,
 #### ସରସୀ ଜଳ, ଉଛୁଳେ କୂଳେ,
