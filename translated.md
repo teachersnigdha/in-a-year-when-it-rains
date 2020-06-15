@@ -1,3 +1,5 @@
+![](https://i.ytimg.com/vi/RW3GG0dKmoI/maxresdefault.jpg)
+
 ```
 When it rains, it rains,
 Surface water, overflowing shores,
