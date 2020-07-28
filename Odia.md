@@ -1,4 +1,7 @@
-[![](https://i.ytimg.com/vi/RW3GG0dKmoI/maxresdefault.jpg)](https://soundcloud.com/user-963789405/in-a-year-when-it-rains-odia)
+![](assets/img/forest-3194475_1920.jpg)
+
+> Styles: [English](README.md), [Odia](Odia.md), [Translated](Translated.md).<br>
+> [Click here to listen](https://www.youtube.com/watch?v=7468B-a35s8).
 
 #### ବରଷେ ଯେବେ, ବରଷା ହୁଏ,
 #### ସରସୀ ଜଳ, ଉଛୁଳେ କୂଳେ,
@@ -49,4 +52,5 @@
 ***
 <br>
 
-- ସ୍ନିଗ୍ଧା ରାଣୀ ସାହୁ
+- Poem by ସ୍ନିଗ୍ଧା ରାଣୀ ସାହୁ
+- Image by Peter H from Pixabay
