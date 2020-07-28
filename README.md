@@ -1,4 +1,7 @@
-[![](https://i.ytimg.com/vi/RW3GG0dKmoI/maxresdefault.jpg)](https://soundcloud.com/user-963789405/in-a-year-when-it-rains-odia)
+![](assets/img/man-on-boat-holding-white-mesh-fishing-net-2131904.jpg)
+
+> Styles: [English](README.md), [Odia](Odia.md), [Translated](Translated.md).<br>
+> [Click here to listen](https://www.youtube.com/watch?v=7468B-a35s8).
 
 ```
 In a year, when it rains,
@@ -37,10 +40,5 @@ In a year, when it rains,
 Pond's water, is overflowing its shores.
 ```
 
-> Styles: [English], [Odia], [Translated].
-
-- Snigdharani Sahu
-
-[English]: README.md
-[Odia]: odia.md
-[Translated]: translated.md
+- Poem by Snigdharani Sahoo
+- Image by Peter H from Pixabay
