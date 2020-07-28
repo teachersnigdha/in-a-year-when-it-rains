@@ -1,4 +1,4 @@
-![](assets/img/man-on-boat-holding-white-mesh-fishing-net-2131904.jpg)
+![](assets/img/forest-3194475_1920.jpg)
 
 > Styles: [English](README.md), [Odia](Odia.md), [Translated](Translated.md).<br>
 > [Click here to listen](https://www.youtube.com/watch?v=7468B-a35s8).
